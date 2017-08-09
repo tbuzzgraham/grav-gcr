@@ -1,7 +1,7 @@
 ---
 title: Blog
 blog_url: blog
-menu: Blog
+menu: Test
 
 sitemap:
     changefreq: monthly
